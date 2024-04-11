@@ -1,0 +1,39 @@
+_repo: The-city_73285
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Wirth, Louis
+    gutenberg_agent_id: '57019'
+    url: http://www.gutenberg.org/2009/agents/57019
+creator:
+  authors:
+  - agent_name: Burgess, Ernest W.
+    gutenberg_agent_id: '57017'
+    url: http://www.gutenberg.org/2009/agents/57017
+  - agent_name: McKenzie, Roderick D.
+    gutenberg_agent_id: '57018'
+    url: http://www.gutenberg.org/2009/agents/57018
+  - agent_name: Park, Robert E.
+    gutenberg_agent_id: '57016'
+    url: http://www.gutenberg.org/2009/agents/57016
+description: ''
+gutenberg_issued: '2024-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73285'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uiug.30112001608071
+pgterms:marc905: 20220525063704park
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Richard Tonsing, Will Cohen and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aChicago :$bThe University of Chicago Press, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The city
+url: http://www.gutenberg.org/ebooks/73285
