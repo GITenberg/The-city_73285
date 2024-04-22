@@ -5,6 +5,9 @@ contributor:
     agent_name: Wirth, Louis
     gutenberg_agent_id: '57019'
     url: http://www.gutenberg.org/2009/agents/57019
+covers:
+- cover_type: archival
+  image_path: 73285-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Burgess, Ernest W.
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '57016'
     url: http://www.gutenberg.org/2009/agents/57016
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73285#The-city
 gutenberg_issued: '2024-03-29'
 gutenberg_type: Text
 identifiers:
